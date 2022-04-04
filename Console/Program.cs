@@ -1,4 +1,5 @@
 ﻿using System;
+#include<math.h>
 
 namespace GithubActionsLab
 {
